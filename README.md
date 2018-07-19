@@ -1,2 +1,6 @@
-# Useful_Automator_Programes
-Share some useful Mac Automator programes~
+# Useful_Automator_Programs
+Share some useful Mac Automator programs~
+
+Shared from my Wechat Official Account: SomedayWill
+
+![公众号二维码](QR.jpg)
